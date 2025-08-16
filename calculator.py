@@ -1,0 +1,9 @@
+a=100
+b=200
+c=300
+result1=a+b
+result2=a-c
+result3=a*c
+print(result1)
+print(result2)
+print(result3)
